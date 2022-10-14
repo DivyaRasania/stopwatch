@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stopwatch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stopwatch_jar</output-path>
+    <root id="archive" name="stopwatch.jar">
+      <element id="module-output" name="stopwatch" />
+    </root>
+  </artifact>
+</component>
